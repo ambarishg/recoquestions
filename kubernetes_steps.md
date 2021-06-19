@@ -26,5 +26,7 @@ kubectl apply -f reco.yaml
 
 kubectl get service reco --watch
 
-20.198.77.225:8501
+
+40.80.92.154:8501
+
 az group delete --resource-group recogroup
